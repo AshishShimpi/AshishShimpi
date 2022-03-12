@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AshishShimpi
-- 👀 I’m interested in Development and coding
-- 🌱 I’m currently learning Web(Node) Development
+- 🌱 I’m currently looking job in Web Development
 - 📫 How to reach me --> ashishshimpi99@gmail.com
 
 <!---
